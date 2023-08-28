@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: (https://github.com/qasem-ezzaldeen/Results)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ((https://qasem-ezzaldeen.github.io/Results/))
 
 ### Useful resources
 
